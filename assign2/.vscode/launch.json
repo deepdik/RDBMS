@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shubhamdhanavade/Desktop/ADO/cs525-ado-f23-cs525-f23-g18-7e6db32a754c/assignment2",
+      "program": "/Users/shubhamdhanavade/Desktop/ADO/cs525-ado-f23-cs525-f23-g18-7e6db32a754c/assignment2/build/Debug/outDebug"
+    }
+  ]
+}
